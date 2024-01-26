@@ -6,33 +6,28 @@
   I am passionate about High-Tech and Applied Maths in Informatics (Deep Learning, Geometry in 3D Rendering, Functional Programming, Language Theory, ...).
   I like to do side-projects when I have some time to spare (I never have).
 </h4>
----
 
 ## Find Me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-thadeu-teixeira/)](
-https://www.linkedin.com/in/hudson-thadeu-teixeira/) 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/hudson.friend.56/)](https://www.facebook.com/hudson.friend.56/)
-[![Gmail Badge](https://img.shields.io/badge/-hudson.thadeu.teixeira@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hudson.thadeu.teixeira@gmail.com)](mailto:hudson.thadeu.teixeira@gmail.com)
----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzsacha//)](https://https://www.linkedin.com/in/cruzsacha//) 
+[![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sachacruzabsi@gmail.com)](mailto:sachacruzabsi@gmail.com)
 
-## 💻 What Do I Use Most
+## 💻 Programming Skills
 
-- 📕 Languages:
-  - [x] Html
-  - [x] CSS
-  - [x] JavaScript
-  - [x] TypeScript
-  - [x] Phyton
+### 📕 Programming Languages:
+- Python
+- Java
+- C++
+- PL/SQL
   
-- 📙 FrameWorks:
-  - [x] BabylonJS
-  - [x] JQuery
-  - [x] Boostrap
-  - [x] ChakraUi
+### 📙 Databases :
+  - SQL / MySQL / PostgreSQL
+  - noSQL / MongoDB / GraphQL
   
-- 📘 Librarys:
-  - [x] ReactJs
-  - [x] StrapI
+### 📘 Libraries:
+Python
+  - DATA :             Pandas Dataframes / OpenPyXL 
+  - DEEP LEARNING :    TensorFlow / Pythorch
+  - IMAGE PROCESSING : VTK / Open3D
 ---
 
 ## 📊 Statistics
@@ -54,12 +49,25 @@ https://www.linkedin.com/in/hudson-thadeu-teixeira/)
  
 </p>
 ----
+
 ## Academic Background
-#### École Centrale de Nantes (Since 2022)
+
+#### - École Centrale de Nantes (Since 2022)
 <h4> 
   I am currently doing a specialization in Computer and Software Engineering.
-  As mentionned in my Bio, 
+  I'm planning to study some Artificial Intelligence Topics before working in a company.
+  As mentionned in my Bio, my atudies explore all the boundaries of Engineering, that is to say, I have pretty good theoritical knowledge about Maths, Physics and Computer Science.
 </h4>
+
+#### - CPGE (Classe Préparatoire aux Grandes Écoles) - Lycée Fénelon, Paris (2020-2022)
+<h4> 
+  Two years of instensive studies in Maths, Physics and Informatics.<br>
+  Learned about Graph Theory, Language Theory, Functionnal Programming.
+  Fell in love with Linear Algebra, Geometry in 
+  Passed a Comptetitive Exam to enter highest-rated engineering schools in France
+</h4>
+
+
 ---
 ----
 ## Side projects
