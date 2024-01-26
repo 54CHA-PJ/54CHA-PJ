@@ -2,13 +2,13 @@
 
 ## About Me
 <h4> 
-  Hi ! I'm a student at École Centrale de Nantes (Nantes, France) preparing my Master's Degree in General Engineering.
-  I am passionate about High-Tech and Applied Maths in Informatics (Deep Learning, Geometry in 3D Rendering, Functional Programming, Language Theory, ...).
+  Hi ! I'm a student at École Centrale de Nantes (Nantes, France) preparing my Master's Degree in General Engineering. <br>
+  I am passionate about High-Tech and Applied Maths in Informatics (Deep Learning, Geometry in 3D Rendering, Functional Programming, Language Theory, ...). <br>
   I like to do side-projects when I have some time to spare (I never have).
 </h4>
 
 ## Find Me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzsacha//)](https://https://www.linkedin.com/in/cruzsacha//) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzsacha//)](https://https://www.linkedin.com/in/cruzsacha//) <br>
 [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sachacruzabsi@gmail.com)](mailto:sachacruzabsi@gmail.com)
 
 ## 💻 Programming Skills
@@ -36,16 +36,13 @@ Python
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudsontteixeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hudsontteixeira/hudsontteixeira?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/54CHA-PJ/54CHA-PJ?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hudsontteixeira/hudsontteixeira ">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/54CHA-PJ/54CHA-PJ ">
     
-  <a href="https://github.com/hudsontteixeira/hudsontteixeira/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/hudsontteixeira/hudsontteixeira?style=social">
+  <a href="https://github.com/54CHA-PJ/54CHA-PJ/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/54CHA-PJ/54CHA-PJ?style=social">
   </a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hudsontteixeira)
-
  
 </p>
 ----
