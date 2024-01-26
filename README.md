@@ -31,21 +31,12 @@ Python
 ---
 
 ## 📊 Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hudsontteixeira&show_icons=true&theme=radical)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudsontteixeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
----
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/54CHA-PJ/54CHA-PJ?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/54CHA-PJ/54CHA-PJ ">
-    
-  <a href="https://github.com/54CHA-PJ/54CHA-PJ/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/54CHA-PJ/54CHA-PJ?style=social">
-  </a>
- 
-</p>
-----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54CHA-PJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=54CHA-PJ)](https://github.com/54CHA-PJ/github-readme-stats)
+
+
 
 ## Academic Background
 
