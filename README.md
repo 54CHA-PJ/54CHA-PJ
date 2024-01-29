@@ -11,28 +11,27 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzsacha//)](https://https://www.linkedin.com/in/cruzsacha//) <br>
 [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sachacruzabsi@gmail.com)](mailto:sachacruzabsi@gmail.com)
 
-## 💻 Programming Skills
+## Programming Skills
 
-### 📕 Programming Languages:
+### Programming Languages:
 - Python
 - Java
 - C++
 - PL/SQL
+
+### Web Programming
+- HTML / CSS
+- JavaScript
+  - TypeScript
+  - ReactJS
+  - NodeJS (Strapi)
   
-### 📙 Databases :
-  - SQL / MySQL / PostgreSQL
-  - noSQL / MongoDB / GraphQL
-  
-### 📘 Libraries:
-Python
-  - DATA :             Pandas Dataframes / OpenPyXL 
-  - DEEP LEARNING :    TensorFlow / Pythorch
-  - IMAGE PROCESSING : VTK / Open3D
+### Databases :
+  - SQL (MySQL / PostgreSQL)
+  - noSQL (MongoDB / OrientDB)
 ---
 
-## 📊 Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54CHA-PJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" />
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=54CHA-PJ)](https://github.com/54CHA-PJ/github-readme-stats)
 
