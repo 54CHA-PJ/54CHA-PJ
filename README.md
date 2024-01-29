@@ -30,8 +30,7 @@
   - noSQL (MongoDB / OrientDB)
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&exclude_repo=https://github.com/54CHA-PJ/OBJET-WoE&locale=en&theme=chartreuse-dark" alt="ovi" />
-
+<img src=“https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&hide=html,css&locale=en&theme=chartreuse-dark” alt=“ovi” />
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=54CHA-PJ)](https://github.com/54CHA-PJ/github-readme-stats)
 
 
