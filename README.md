@@ -2,12 +2,11 @@
 
 ## About Me
 <h4> 
-  Hi ! I'm a student at École Centrale de Nantes (Nantes, France) preparing my Master's Degree in General Engineering. <br>
-  I am passionate about High-Tech and Applied Maths in Informatics (Deep Learning, Geometry in 3D Rendering, Functional Programming, Language Theory, ...). <br>
-  I like to do side-projects when I have some time to spare (I never have).
+  Hi ! I'm a student at École Centrale de Nantes (Nantes, France) preparing my Master's Degree in General Engineering. <br> <br>
+  I am passionate about High-Tech and Applied Maths in Informatics (Deep Learning, Geometry in 3D Rendering, Functional Programming, Language Theory, ...). I like to do side-projects when I have some time to spare (which I never have). 
 </h4>
 
-## Find Me
+## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzsacha//)](https://https://www.linkedin.com/in/cruzsacha//) <br>
 [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sachacruzabsi@gmail.com)](mailto:sachacruzabsi@gmail.com)
 
@@ -31,7 +30,7 @@
   - noSQL (MongoDB / OrientDB)
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&exclude_repo=https://github.com/54CHA-PJ/OBJET-WoE&locale=en&theme=chartreuse-dark" alt="ovi" />
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=54CHA-PJ)](https://github.com/54CHA-PJ/github-readme-stats)
 
