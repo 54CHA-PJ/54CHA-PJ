@@ -8,7 +8,7 @@
 
 ## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzsacha//)](https://https://www.linkedin.com/in/cruzsacha//) <br>
-[![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sachacruzabsi@gmail.com)](mailto:sachacruzabsi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sachacruzabsi3@gmail.com)](mailto:sachacruzabsi3@gmail.com)
 
 ## Programming Skills
 
@@ -40,10 +40,12 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)<br>
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 #### Python
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -66,6 +68,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 #### DEV TOOLS
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
@@ -76,29 +79,30 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ## Statistics
-![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&hide=html,css,c,makefile&theme=dracula)<br>
+![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&hide=html,c,makefile&theme=dracula) (HTML is hidden 👽) <br>
 ![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=54CHA-PJ&theme=dracula)
+
 ## Academic Background
 
 #### - École Centrale de Nantes (Since 2022)
 <h4> 
   I am currently doing a specialization in Computer and Software Engineering.
-  I'm planning to study some Artificial Intelligence Topics before working in a company.
-  As mentionned in my Bio, my atudies explore all the boundaries of Engineering, that is to say, I have pretty good theoritical knowledge about Maths, Physics and Computer Science.
+  I'm planning to pursue my studies/works on the IT field.
+  As mentionned in my Bio, my studies explore all the boundaries of Engineering, that is to say, I have pretty good theoritical knowledge about Maths, Physics and Computer Science.
 </h4>
 
 #### - CPGE (Classe Préparatoire aux Grandes Écoles) - Lycée Fénelon, Paris (2020-2022)
 <h4> 
   Two years of instensive studies in Maths, Physics and Informatics.<br>
   Learned about Graph Theory, Language Theory, Functionnal Programming.
-  Fell in love with Linear Algebra, Geometry in 
   Passed a Comptetitive Exam to enter highest-rated engineering schools in France
 </h4>
 
-
----
 ----
+----
+
 ## Side projects
 
 ### Software projects : <br>
@@ -108,26 +112,16 @@
 [![Instagram Badge](https://img.shields.io/badge/-@54cha_pj_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/54cha_pj?igsh=N2gxa202aHB2a284_/)](https://www.instagram.com/54cha_pj?igsh=N2gxa202aHB2a284_/) 
 
 ### Other activities
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br>
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
-![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
-
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 #### What i want to learn 
-
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
