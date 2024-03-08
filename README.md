@@ -87,7 +87,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## Statistics
-![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&hide=html,c,makefile&theme=dracula) (HTML is hidden 👽) <br>
+![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&hide=html,css,scss,c,makefile&theme=dracula) (HTML/CSS is hidden 👽) <br>
 ![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=54CHA-PJ&theme=dracula)
 
 ## Academic Background
