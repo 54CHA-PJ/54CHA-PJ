@@ -14,28 +14,15 @@
 
 ## Engineering Skills
 
-![here](IT-SKILLS.md)
+Please check the list of skills and 
 
+- [**ENGINEERING SKILLS**](IT-SKILLS.md)
+- [**PROFESSIONAL EXPERIENCE**](EXPERIENCE.md)
+- [**CERTIFICATIONS / ACADEMIC BACKGROUND**](STUDIES.md)
 
 ## Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&hide=html,css,scss,c,makefile&theme=dracula) (HTML/CSS is hidden 👽) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=54CHA-PJ&theme=dark&hide_border=false&theme=dracula)<br/>
-
-## Academic Background
-
-#### - École Centrale de Nantes (Since 2022)
-<h4> 
-  I am currently doing a specialization in Computer and Software Engineering.
-  I'm planning to pursue my studies/works on the IT field.
-  As mentionned in my Bio, my studies explore all the boundaries of Engineering, that is to say, I have pretty good theoritical knowledge about Maths, Physics and Computer Science.
-</h4>
-
-#### - CPGE (Classe Préparatoire aux Grandes Écoles) - Lycée Fénelon, Paris (2020-2022)
-<h4> 
-  Two years of instensive studies in Maths, Physics and Informatics.<br>
-  Learned about Graph Theory, Language Theory, Functionnal Programming.
-  Passed a Comptetitive Exam to enter highest-rated engineering schools in France
-</h4>
 
 ----
 ----
