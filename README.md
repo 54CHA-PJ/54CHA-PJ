@@ -10,7 +10,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzsacha//)](https://https://www.linkedin.com/in/cruzsacha//)
 [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sachacruzabsi3@gmail.com)](mailto:sachacruzabsi3@gmail.com)
 [![Fiverr Badge](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&link=https://fr.fiverr.com/s4ch4cruz?up_rollout=true)](https://fr.fiverr.com/s4ch4cruz?up_rollout=true)
-<!-- [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?style=for-the-badge&logo=gmail&logoColor=cyan&link=mailto:sachacruzabsi3@gmail.com)](mailto:Sacha.Cruz@eleves.ec-nantes.fr)-->
 
 ## Engineering Skills
 
