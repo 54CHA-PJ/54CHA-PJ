@@ -9,7 +9,6 @@
 ## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzsacha//)](https://https://www.linkedin.com/in/cruzsacha//)
 [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sachacruzabsi3@gmail.com)](mailto:sachacruzabsi3@gmail.com)
-[![Fiverr Badge](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&link=https://fr.fiverr.com/s4ch4cruz?up_rollout=true)](https://fr.fiverr.com/s4ch4cruz?up_rollout=true)
 
 ## Engineering Skills
 Please explore the sections below to learn more about my technical expertise, professional journey, and academic history.
@@ -26,19 +25,16 @@ Please explore the sections below to learn more about my technical expertise, pr
 ## Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&hide=html,css,scss,c,makefile&theme=dracula) (HTML/CSS is hidden 👽) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=54CHA-PJ&theme=dark&hide_border=false&theme=dracula)<br/>
-<!--img src="https://myreadme.vercel.app/api/embed/54CHA-PJ?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dracula" alt="reimaginedreadme" /-->
 
-----
 ----
 
 ## Side projects
 
-### Software projects : <br>
-(Need to upload them ...)
+### Software projects<br>
+(Coming Soon)
 
-### 3D concept in Blender <br>
-[![Instagram Badge](https://img.shields.io/badge/-@54cha_pj_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/54cha_pj?igsh=N2gxa202aHB2a284_/)](https://www.instagram.com/54cha_pj?igsh=N2gxa202aHB2a284_/) 
-
-
-##### (WIDGET SOURCES)
-https://github.com/Ileriayo/markdown-badges
+### Design Projects<br>
+- **3DConcept Design and Animations in Blender<br>**
+[![Instagram Badge](https://img.shields.io/badge/-@54cha_pj_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/54cha_pj?igsh=N2gxa202aHB2a284_/)](https://www.instagram.com/54cha_pj?igsh=N2gxa202aHB2a284_/)
+- **Freelance 3D Designer<br>**
+[![Fiverr Badge](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&link=https://fr.fiverr.com/s4ch4cruz?up_rollout=true)](https://fr.fiverr.com/s4ch4cruz?up_rollout=true)
