@@ -14,13 +14,13 @@
 ## Engineering Skills
 Please explore the sections below to learn more about my technical expertise, professional journey, and academic history.
 
-- [**TECH STACK & EXPERTISE**](IT-SKILLS.md) <br>
+- 🖥️ [**TECH STACK & EXPERTISE**](IT-SKILLS.md) <br>
   Dive into the technologies I'm proficient with, including programming languages, frameworks, and tools.
   
-- [**PROFESSIONAL EXPERIENCE**]() (Coming Soon) <br>
+- 🏢 [**PROFESSIONAL EXPERIENCE**]() (Coming Soon) <br>
   Recap of my professional experience, including internships, freelance work, and academic projects.
 
-- [**CERTIFICATIONS & ACADEMIC BACKGROUND**]() (Coming Soon) <br>
+- 🏫 [**CERTIFICATIONS & ACADEMIC BACKGROUND**]() (Coming Soon) <br>
   Educational background and engineering-related certifications.
 
 ## Statistics
