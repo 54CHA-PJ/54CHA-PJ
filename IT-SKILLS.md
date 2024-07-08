@@ -1,14 +1,12 @@
-## Engineering Skills
-
-Here you can see a brief list of the technologies that I have experience handling, either in my studier, projects, or in professional experience.
-
+## Tech Stack and Engineering Skills
+<a id="0"></a>
 Summary:
-- **PROGRAMMING TECHNOLOGIES**
-- **DATA TECHNOLOGIES**
-- **TOOLS and IDEs**
+- <a href="#1"> **PROGRAMMING TECHNOLOGIES** </a>
+- <a href="#2"> **DATA TECHNOLOGIES** </a>
+- <a href="#3"> **TOOLS and IDEs** </a>
 
 ---
-## PROGRAMMING TECHNOLOGIES
+## <a id="1" href="#0"> PROGRAMMING TECHNOLOGIES </a>
 
 ### Programming Languages
 - **My top 3 <br>**
@@ -61,7 +59,7 @@ Summary:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-## DATA TECHNOLOGIES
+## <a id="2" href="#0"> DATA TECHNOLOGIES </a>
 
 ### Databases
 - **Relational Databases<br>**
@@ -87,7 +85,7 @@ Summary:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-## TOOLS and IDEs
+## <a id="3" href="#0"> TOOLS and IDEs </a>
 
 ### Programming IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
