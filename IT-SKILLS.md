@@ -63,7 +63,7 @@ Summary:
 ---
 ## DATA TECHNOLOGIES
 
-### DATABASES
+### Databases
 - **Relational Databases<br>**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -96,7 +96,7 @@ Summary:
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### OTHER DEV TOOLS
+### Other Dev Tools
 - **API Handling<br>**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - **Data Servers<br>**
@@ -124,7 +124,7 @@ Summary:
 ![Outlook](https://img.shields.io/badge/MS_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### DESIGN TOOLS
+### Design Tools
 - **UI Design<br>**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
