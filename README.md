@@ -12,12 +12,16 @@
 [![Fiverr Badge](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&link=https://fr.fiverr.com/s4ch4cruz?up_rollout=true)](https://fr.fiverr.com/s4ch4cruz?up_rollout=true)
 
 ## Engineering Skills
+Please explore the sections below to learn more about my technical expertise, professional journey, and academic history.
 
-Please check the list of skills and 
+- [**TECH STACK & EXPERTISE**](IT-SKILLS.md) <br>
+  Dive into the technologies I'm proficient with, including programming languages, frameworks, and tools.
+  
+- [**PROFESSIONAL EXPERIENCE**]() (Coming Soon) <br>
+  Recap of my professional experience, including internships, freelance work, and academic projects.
 
-- [**ENGINEERING SKILLS**](IT-SKILLS.md)
-- [**PROFESSIONAL EXPERIENCE**]() (Coming Soon)
-- [**CERTIFICATIONS / ACADEMIC BACKGROUND**]() (Coming Soon)
+- [**CERTIFICATIONS & ACADEMIC BACKGROUND**]() (Coming Soon) <br>
+  Educational background and engineering-related certifications.
 
 ## Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&hide=html,css,scss,c,makefile&theme=dracula) (HTML/CSS is hidden 👽) <br>
