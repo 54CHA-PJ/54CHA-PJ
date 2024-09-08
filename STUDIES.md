@@ -5,6 +5,7 @@ Summary:
 - <a href="#1"> **Academic Background** </a>
 - <a href="#2"> **Courses and Certificates** </a>
 
+---
 ## <a id="1" href="#0"> Academic Background </a>
 
 #### [2024-2025] [Artificial Intelligence - École Centrale de Nantes]()
@@ -16,7 +17,7 @@ Specialization in Artificail Intelligence</br>
 #### [2023-2024] [Computer and Systems Engineering - École Centrale de Nantes]()
 Specialization in Computer and Software Engineering.</br>
 **IT** : Databases, Systems Architecture, Networks</br>
-**Software** : Full-Stack Development</br>
+**Software** : Full-Stack Development, Software Development, Quality Assurance</br>
 **Theory** : Language Theory, Graph Theory, Information Theory
 
 #### [2023-2024] [Advanced Engineering Topics - École Centrale de Nantes]()
@@ -31,7 +32,7 @@ Passed a Comptetitive Exam to enter highest-rated engineering schools in France
 **Physics** : Thermodynamics, Electrostatic, Quantum Mechanic </br>
 **CS** : Functionnal Programming, Python, Caml
 
-
+---
 ## <a id="2" href="#0"> Online Courses and Certificates </a>
 
 ### Microsoft Learn
