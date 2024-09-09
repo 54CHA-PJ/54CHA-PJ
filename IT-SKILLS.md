@@ -1,12 +1,20 @@
-## Tech Stack and Engineering Skills
+
+<a href="https://github.com/54CHA-PJ">
+  <img 
+    src="https://github.com/user-attachments/assets/4c96b2f4-bdd3-4088-8759-3036739481a2"     
+    width="35" 
+    height="35">
+</a>
+
+# Tech Stack and Engineering Skills
 <a id="0"></a>
-Summary:
-- <a href="#1"> **PROGRAMMING TECHNOLOGIES** </a>
-- <a href="#2"> **DATA TECHNOLOGIES** </a>
-- <a href="#3"> **TOOLS and IDEs** </a>
+Summary: </br>
+1- <a href="#1"> **Programming** </a> </br>
+2- <a href="#2"> **Data Science** </a> </br>
+3- <a href="#3"> **Tools and IDEs** </a> </br>
 
 ---
-## <a id="1" href="#0"> PROGRAMMING TECHNOLOGIES </a>
+## <a id="1" href="#0">1.  PROGRAMMING TECH </a>
 
 ### Programming Languages
 - **My top 3 <br>**
@@ -62,7 +70,7 @@ Summary:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-## <a id="2" href="#0"> DATA TECHNOLOGIES </a>
+## <a id="2" href="#0">2. DATA SCIENCE </a>
 
 ### Databases
 - **Relational Databases<br>**
@@ -88,7 +96,7 @@ Summary:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-## <a id="3" href="#0"> TOOLS and IDEs </a>
+## <a id="3" href="#0">3. TOOLS and IDEs </a>
 
 ### Programming IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
