@@ -2,8 +2,9 @@
 
 ## About Me
 <h4> 
-  Hi ! I'm a student at École Centrale de Nantes (Nantes, France) preparing my Master's Degree in General Engineering. <br> <br>
-  I am passionate about High-Tech and Applied Maths in Informatics (Deep Learning, Geometry in 3D Rendering, Functional Programming, Language Theory, ...). I like to do side-projects when I have some time to spare (which I never have). 
+  Hi ! I'm a student at École Centrale de Nantes (Nantes, France) preparing my Master's Degree in General Engineering. <br>
+  I am passionate about High-Tech and Applied Maths in Informatics (Deep Learning, Language Theory, etc.). <br>
+  I like to do side-projects when I have some time to spare (which I never have). 
 </h4>
 
 ## Contact
@@ -15,12 +16,12 @@ Please explore the sections below to learn more about my technical expertise, pr
 
 - 🖥️ [**TECH STACK & EXPERTISE**](IT-SKILLS.md) <br>
   Dive into the technologies I'm proficient with, including programming languages, frameworks, and tools.
-  
+
+- 🏫 [**CERTIFICATIONS & ACADEMIC BACKGROUND**](STUDIES.md) <br>
+  Educational background and engineering-related certifications.
+
 - 🏢 [**PROFESSIONAL EXPERIENCE**]() (Coming Soon) <br>
   Recap of my professional experience, including internships, freelance work, and academic projects.
-
-- 🏫 [**CERTIFICATIONS & ACADEMIC BACKGROUND**]() (Coming Soon) <br>
-  Educational background and engineering-related certifications.
 
 ## Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&hide=html,css,scss,c,makefile&theme=dracula) (HTML/CSS is hidden 👽) <br>
