@@ -1,31 +1,38 @@
-## Academic background and Cerificates
+<a href="https://github.com/54CHA-PJ">
+  <img 
+    src="https://github.com/user-attachments/assets/4c96b2f4-bdd3-4088-8759-3036739481a2"     
+    width="35" 
+    height="35">
+</a>
+
+# Academic Background and Cerificates
 
 <a id="0"></a>
 Summary:
-- <a href="#1"> **Academic Background** </a>
-- <a href="#2"> **Courses and Certificates** </a>
+- <a href="#1"> **1. Academic Background** </a>
+- <a href="#2"> **2. Online Courses and Certificates** </a>
 
 ---
 ## <a id="1" href="#0"> Academic Background </a>
 
-#### [2024-2025] [Artificial Intelligence - École Centrale de Nantes]()
+#### [2024-2025] [Artificial Intelligence - École Centrale de Nantes](.)
 Specialization in Artificail Intelligence</br>
 **AI** : Deep Learning, Reinforcement Learning</br>
 **Data** : Statistic Learning, Game theory </br>
 **Theory** : Advanced Algorithmics, Logic Programming
 
-#### [2023-2024] [Computer and Systems Engineering - École Centrale de Nantes]()
+#### [2023-2024] [Computer and Systems Engineering - École Centrale de Nantes](.)
 Specialization in Computer and Software Engineering.</br>
 **IT** : Databases, Systems Architecture, Networks</br>
 **Software** : Full-Stack Development, Software Development, Quality Assurance</br>
 **Theory** : Language Theory, Graph Theory, Information Theory
 
-#### [2023-2024] [Advanced Engineering Topics - École Centrale de Nantes]()
+#### [2023-2024] [Advanced Engineering Topics - École Centrale de Nantes](.)
 **Maths** : Linear Optimization, Statistics</br>
 **Physics** : Fluid Mechanics, Continuum mechanics</br>
 **CS** : Algorithms, Data Science, C++
 
-#### [2020-2022] [CPGE (Classe Préparatoire aux Grandes Écoles)]()
+#### [2020-2022] [CPGE (Classe Préparatoire aux Grandes Écoles)](.)
 Two years of instensive studies in Maths, Physics and Computer Science.</br>
 Passed a Comptetitive Exam to enter highest-rated engineering schools in France
 **Maths** : Linear Algebra, Calculus, Probabilities </br>
