@@ -25,7 +25,7 @@ Please explore the sections below to learn more about my technical expertise, pr
 
 ## Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=54CHA-PJ&show_icons=true&locale=en&hide=html,css,scss,c,makefile&theme=dracula) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=54CHA-PJ&theme=dark&hide_border=false&theme=dracula)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=54CHA-PJ&theme=dark&hide_border=false&theme=dracula)<br/> -->
 
 ----
 
