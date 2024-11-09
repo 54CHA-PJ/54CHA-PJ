@@ -3,7 +3,7 @@
 ## About Me
 <h4> 
   Hi ! I'm a student at École Centrale de Nantes (Nantes, France) preparing my Master's Degree in General Engineering. <br>
-  I am passionate about High-Tech and Applied Maths in Informatics (Deep Learning, Language Theory, etc.). <br>
+  I am passionate about High-Tech and Applied Maths in Informatics (Computer Vision, Transformers, Language Theory, etc.). <br>
   I like to do side-projects when I have some time to spare (which I never have). 
 </h4>
 
